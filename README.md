@@ -17,7 +17,7 @@ https://hub.docker.com/r/nanajanashia/argocd-app/tags
 - I will use feature branching strategy, each branch will be named after the id of task that is solved on that branch
 
 ## Tasks
-1.: Write deployment and service yaml files for the application, version 1.0 of the application
-2.: Write the Application.yaml file to use when configuring ArgoCD
-3.: Update kubernetes configuration files to test sync
+1. Write deployment and service yaml files for the application, version 1.0 of the application
+2. Write the Application.yaml file to use when configuring ArgoCD
+3. Update kubernetes configuration files to test sync
 
